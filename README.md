@@ -3,9 +3,9 @@
  Desafio [Chapter V] Agilizei BootCamp, utilizando o CI do git Actions e mochawesome-report com testes E2E E testes de API.
 ![agilizeBootCamp](https://user-images.githubusercontent.com/62854319/158291684-392309cf-ab85-40ad-af55-8bf947133036.png)
 # Test Automation with Cypress + CI using GitHub Actions
-### Agilizei Bootcamp - Desafio 4 [Chapter V]
+### Agilizei Bootcamp - Desafio 3 [Chapter V]
 ---
-Projeto desenvolvido para o desafio do Quarto módulo [Chapter V] do Agilizei Bootcamp.
+Projeto desenvolvido para o desafio do Terceiro módulo [Chapter V] do Agilizei Bootcamp.
 
 ## :interrobang: Tecnologias Utilizadas
 - <p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
