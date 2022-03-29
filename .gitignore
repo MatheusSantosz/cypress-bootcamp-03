@@ -1,0 +1,16 @@
+
+# dependencias
+node_modules
+
+# relatórios
+mochawesome-report
+cypress/reports/index.html
+
+# cypress itens
+cypress/videos
+cypress/screenshots
+
+# others
+package-lock.json
+
+index.json
